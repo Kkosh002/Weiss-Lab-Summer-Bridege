@@ -1,0 +1,16 @@
+The holoenzyme consists of the RNAP core and Sigma 70 and weighs approximately 470= kDa (1 Da = 1 g/mol) 
+
+The holoenzyme can be made in the lab by combining the RNAP core and sigma, and incubating or the entire holoenzyme can be bought commercially
+
+Prepping the Holoenzyme from core and sigma. 
+1. The core is roughly 400 kDa and comes in a 7 mg/mL ~ 17.5 uM solution. 
+  The core can be made the limiting reagent, by creating a 10 fold dilution, or a 1.75 uM solution 
+    (2 uL and 18 uL 1x txn b +++) 
+2. Sigma is approx. 70 kDa and comes in 1.13 mg/mL ~ 16 uM concentration. 
+  Keeping a very rough 10 times concentration sigma to core will (under LeChatlier's Principle) give closer 1:1 binding ratio of sigma to core than just a 1:1 concentration reaction
+3. Combine 4 uL of the 10 fold diluted RNAP core solution (from step one 1.75 uM), 2 uL of the sigma (from step two 16 uM), and 13 uL of 1x txn b +++ (or 10 uL 2x txn b +++ and 3 uL of sterile water) 
+4. incubate for 30 minutes at 37 deg C. 
+
+Prepping the commercially bought holoenzyme 
+1. The holoenzyme comes in a 1.7 mg/mL ~ 3.62 uM solution, dispense 2 uL of this stock into 17 uL of 1x txn b +++ (or 10 uL 2x txn b +++ and 7 uL of sterile water) 
+2. incubate for 30 minutes at 37 deg C. 
